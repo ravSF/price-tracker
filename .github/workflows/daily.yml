@@ -1,0 +1,39 @@
+name: Daily Price Check
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 8:00 AM UTC daily
+  workflow_dispatch:       # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run price tracker
+        env:
+          GMAIL_USER:         ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL:        ${{ secrets.ALERT_EMAIL }}
+          SCRAPER_API_KEY:    ${{ secrets.SCRAPER_API_KEY }}
+          SERP_API_KEY:       ${{ secrets.SERP_API_KEY }}
+        run: python price_tracker.py
+
+      - name: Commit updated price history
+        run: |
+          git config user.name  "PriceWatch Bot"
+          git config user.email "bot@pricewatch"
+          git add price_history.json
+          git diff --staged --quiet || git commit -m "chore: price history $(date -u +%Y-%m-%d)"
+          git push
