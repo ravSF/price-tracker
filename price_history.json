@@ -1,1 +1,88 @@
-{}
+{
+  "mq42anofpqnj": [
+    {
+      "date": "2026-06-07",
+      "price": 379.95,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "crateandbarrel.com",
+          "price": 1999.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "dimkava.ge",
+          "price": 843.72,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Seattle Coffee Gear",
+          "price": 899.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "eBay - digi-techx",
+          "price": 1090.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Best Buy",
+          "price": 379.95,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "mq42cvfnq65g": [
+    {
+      "date": "2026-06-07",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ExclusiveBats",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Headbanger Sports",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
