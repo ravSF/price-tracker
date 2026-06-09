@@ -81,6 +81,54 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-09",
+      "price": 899.95,
+      "results": [
+        {
+          "source": "ScraperAPI",
+          "retailer": "A",
+          "price": 1600.0,
+          "shipping": "Unknown",
+          "url": "https://a.co/d/0g6Tekgg"
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Best Buy",
+          "price": 1999.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Whole Latte Love",
+          "price": 1999.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Yorkshire Outdoor Activity Park",
+          "price": 1270.85,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "almorshedymarts.net",
+          "price": 1740.31,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Seattle Coffee Gear",
+          "price": 899.95,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ],
   "mq42cvfnq65g": [
@@ -160,6 +208,47 @@
         {
           "source": "SerpAPI",
           "retailer": "Headbanger Sports",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "BaseballMonkey.com",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 349.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
           "price": 399.99,
           "shipping": "Unknown",
           "url": ""
