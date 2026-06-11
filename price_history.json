@@ -170,6 +170,47 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-11",
+      "price": 899.95,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Best Buy",
+          "price": 1999.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Yorkshire Outdoor Activity Park",
+          "price": 1272.13,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Microless.com",
+          "price": 1342.73,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Seattle Coffee Gear",
+          "price": 899.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Walmart - Jetboxed",
+          "price": 1899.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ],
   "mq42cvfnq65g": [
@@ -332,6 +373,47 @@
           "source": "SerpAPI",
           "retailer": "DICK'S Sporting Goods",
           "price": 349.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ExclusiveBats",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Headbanger Sports",
+          "price": 399.99,
           "shipping": "Unknown",
           "url": ""
         }
