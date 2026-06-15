@@ -334,6 +334,54 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-15",
+      "price": 899.95,
+      "results": [
+        {
+          "source": "ScraperAPI",
+          "retailer": "A",
+          "price": 1600.0,
+          "shipping": "Unknown",
+          "url": "https://a.co/d/0g6Tekgg"
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Best Buy",
+          "price": 1499.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Whole Latte Love",
+          "price": 1499.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Yorkshire Outdoor Activity Park",
+          "price": 1274.53,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Microless.com",
+          "price": 1342.73,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Seattle Coffee Gear",
+          "price": 899.95,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ],
   "mq42cvfnq65g": [
@@ -660,6 +708,47 @@
           "source": "SerpAPI",
           "retailer": "Headbanger Sports",
           "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Headbanger Sports",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ExclusiveBats",
+          "price": 199.99,
           "shipping": "Unknown",
           "url": ""
         }
