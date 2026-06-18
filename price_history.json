@@ -464,6 +464,47 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-06-18",
+      "price": 1342.73,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Williams-Sonoma",
+          "price": 1499.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Microless.com",
+          "price": 1342.73,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Efendina Pazar",
+          "price": 3300.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "almorshedymarts.net",
+          "price": 1602.53,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Espresso Machine Experts",
+          "price": 1499.95,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ],
   "mq42cvfnq65g": [
@@ -913,6 +954,47 @@
           "source": "SerpAPI",
           "retailer": "ExclusiveBats",
           "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "price": 187.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "JustBats.",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ExclusiveBats",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "StadiumAllstar.com",
+          "price": 187.99,
           "shipping": "Unknown",
           "url": ""
         }
