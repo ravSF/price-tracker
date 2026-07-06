@@ -1949,6 +1949,19 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "price": 109.95,
+      "results": [
+        {
+          "source": "ScraperAPI",
+          "retailer": "JustBats",
+          "price": 109.95,
+          "shipping": "Unknown",
+          "url": "https://www.justbats.com/product/rawlings-icon-the-chosen-one--10-usa-baseball-bat--rus6ione10/39260/#attr=276140"
+        }
+      ]
     }
   ]
 }
