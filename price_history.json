@@ -2208,6 +2208,54 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "price": 109.95,
+      "results": [
+        {
+          "source": "ScraperAPI",
+          "retailer": "JustBats",
+          "price": 109.95,
+          "shipping": "Unknown",
+          "url": "https://www.justbats.com/product/rawlings-icon-the-chosen-one--10-usa-baseball-bat--rus6ione10/39260/#attr=276140"
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "JustBats.",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ExclusiveBats",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Headbanger Sports",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ]
 }
