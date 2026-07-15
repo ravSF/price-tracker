@@ -2256,6 +2256,47 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Better Baseball",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Play Baseball",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Rawlings",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ]
 }
