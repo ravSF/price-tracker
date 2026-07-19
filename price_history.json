@@ -2420,6 +2420,47 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-07-19",
+      "price": 199.95,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Baseball Express",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "CheapBats.com",
+          "price": 327.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ExclusiveBats",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "LongballBats.com",
+          "price": 199.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Drop Zone Sports Gear",
+          "price": 250.0,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ]
 }
