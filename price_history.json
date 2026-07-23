@@ -2584,6 +2584,47 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Baseball Express",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Scheels",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Drop Zone Sports Gear",
+          "price": 250.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Direct Sports",
+          "price": 349.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "playitagainsports.com",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ]
 }
