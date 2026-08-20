@@ -3677,6 +3677,47 @@
           "url": ""
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Direct Sports",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "JustBats",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Drop Zone Sports Gear",
+          "price": 250.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "playitagainsports.com",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
     }
   ]
 }
