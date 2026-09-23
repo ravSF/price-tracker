@@ -762,47 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-06-12",
-      "price": 199.99,
-      "results": [
-        {
-          "source": "SerpAPI",
-          "retailer": "Better Baseball",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Direct Sports",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Scheels",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "ExclusiveBats",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "playitagainsports.com",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-06-13",
       "price": 199.99,
       "results": [
@@ -4425,6 +4384,47 @@
           "source": "SerpAPI",
           "retailer": "Bases Loaded Sports",
           "price": 399.95,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "price": 299.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Peligro Sports",
+          "price": 299.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Between The Lines",
+          "price": 349.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Between The Lines",
+          "price": 349.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Worlds Hottest bats",
+          "price": 555.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "HQ4Sports.com",
+          "price": 399.99,
           "shipping": "Unknown",
           "url": ""
         }
