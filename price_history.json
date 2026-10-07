@@ -762,47 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-06-24",
-      "price": 199.99,
-      "results": [
-        {
-          "source": "SerpAPI",
-          "retailer": "Better Baseball",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Better Baseball",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Scheels",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Rawlings",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Headbanger Sports",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-06-25",
       "price": 187.99,
       "results": [
@@ -4425,6 +4384,47 @@
           "source": "SerpAPI",
           "retailer": "playitagainsports.com",
           "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "price": 290.0,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Shop - Shop app",
+          "price": 499.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Between The Lines",
+          "price": 349.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "TikTok Shop",
+          "price": 479.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Worlds Hottest bats",
+          "price": 539.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Unknown",
+          "price": 290.0,
           "shipping": "Unknown",
           "url": ""
         }
