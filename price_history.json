@@ -762,47 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-07-03",
-      "price": 187.99,
-      "results": [
-        {
-          "source": "SerpAPI",
-          "retailer": "JustBats.",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Better Baseball",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Scheels",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "StadiumAllstar.com",
-          "price": 187.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "ExclusiveBats",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-07-04",
       "price": 187.99,
       "results": [
@@ -4425,6 +4384,47 @@
           "source": "SerpAPI",
           "retailer": "playitagainsports.com",
           "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "price": 290.0,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Unknown",
+          "price": 290.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "playitagainsports.com",
+          "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "ProRollers",
+          "price": 479.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Worlds Hottest bats",
+          "price": 365.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 299.99,
           "shipping": "Unknown",
           "url": ""
         }
