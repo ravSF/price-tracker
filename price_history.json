@@ -762,47 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-07-13",
-      "price": 199.99,
-      "results": [
-        {
-          "source": "SerpAPI",
-          "retailer": "JustBats.",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Better Baseball",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Scheels",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "ExclusiveBats",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Headbanger Sports",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-07-14",
       "price": 109.95,
       "results": [
@@ -4453,6 +4412,47 @@
           "source": "SerpAPI",
           "retailer": "playitagainsports.com",
           "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "price": 157.0,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "SidelineSwap",
+          "price": 254.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "SidelineSwap",
+          "price": 199.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "SidelineSwap",
+          "price": 157.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "eBay - youreverdaydealer",
+          "price": 279.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Academy Sports + Outdoors",
+          "price": 299.99,
           "shipping": "Unknown",
           "url": ""
         }
