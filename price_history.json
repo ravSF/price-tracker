@@ -762,19 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-08-10",
-      "price": 109.95,
-      "results": [
-        {
-          "source": "ScraperAPI",
-          "retailer": "JustBats",
-          "price": 109.95,
-          "shipping": "Unknown",
-          "url": "https://www.justbats.com/product/rawlings-icon-the-chosen-one--10-usa-baseball-bat--rus6ione10/39260/#attr=276140"
-        }
-      ]
-    },
-    {
       "date": "2026-08-11",
       "price": 199.99,
       "results": [
@@ -4446,6 +4433,47 @@
           "source": "SerpAPI",
           "retailer": "League Outfitters",
           "price": 399.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "price": 39.77,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "Headbanger Sports",
+          "price": 224.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Rawlings",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Academy Sports + Outdoors",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Flyover Country Sporting Goods",
+          "price": 39.77,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 59.99,
           "shipping": "Unknown",
           "url": ""
         }
