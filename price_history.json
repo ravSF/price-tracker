@@ -762,47 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-08-11",
-      "price": 199.99,
-      "results": [
-        {
-          "source": "SerpAPI",
-          "retailer": "JustBats.",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "JustBats.",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Headbanger Sports",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Prime Nine Sports",
-          "price": 349.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "playitagainsports.com",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-08-12",
       "price": 109.95,
       "results": [
@@ -4474,6 +4433,47 @@
           "source": "SerpAPI",
           "retailer": "DICK'S Sporting Goods",
           "price": 59.99,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "price": 94.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "27 Baseball",
+          "price": 449.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "CheapBats.com",
+          "price": 94.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "eBay - trsn-9153",
+          "price": 159.0,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Midway Sports",
+          "price": 199.95,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Worlds Hottest bats",
+          "price": 504.0,
           "shipping": "Unknown",
           "url": ""
         }
