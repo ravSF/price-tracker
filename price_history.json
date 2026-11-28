@@ -762,47 +762,6 @@
   ],
   "mq42cvfnq65g": [
     {
-      "date": "2026-08-14",
-      "price": 199.99,
-      "results": [
-        {
-          "source": "SerpAPI",
-          "retailer": "Team Express",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "playitagainsports.com",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "Headbanger Sports",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "playitagainsports.com",
-          "price": 199.99,
-          "shipping": "Unknown",
-          "url": ""
-        },
-        {
-          "source": "SerpAPI",
-          "retailer": "HQ4Sports.com",
-          "price": 399.99,
-          "shipping": "Unknown",
-          "url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-08-15",
       "price": 199.99,
       "results": [
@@ -4467,6 +4426,47 @@
           "source": "SerpAPI",
           "retailer": "Academy Sports + Outdoors",
           "price": 399.95,
+          "shipping": "Unknown",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "price": 199.99,
+      "results": [
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "SidelineSwap",
+          "price": 280.25,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "Play It Again Sports",
+          "price": 229.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "playitagainsports.com",
+          "price": 199.99,
+          "shipping": "Unknown",
+          "url": ""
+        },
+        {
+          "source": "SerpAPI",
+          "retailer": "DICK'S Sporting Goods",
+          "price": 199.99,
           "shipping": "Unknown",
           "url": ""
         }
